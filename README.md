@@ -73,7 +73,7 @@
 <a href="https://linkedin.com/in/naufal-denta-elsatya-nugraha-2baa36282" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/naufaldenta" target="_blank">
+<a href="https://www.facebook.com/naufaldenta.elsatyan" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/nopaldenn" target="_blank">
@@ -104,7 +104,14 @@
 
 <br/>  
 
-<div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufaldenta&theme=discord-old-blurple)](https://git.io/streak-stats)</div>
+<div align="center"></div>
+<br />
+
+----
+
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufaldenta&theme=discord-old-blurple)](https://git.io/streak-stats)
+</div>
 <br />
 
 ----
