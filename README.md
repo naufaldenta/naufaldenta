@@ -1,4 +1,5 @@
 
+  
 
 ### <div align="center">I'm Naufal Denta, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
@@ -44,6 +45,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -68,7 +70,7 @@
 <a href="https://github.com/naufaldenta" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/naufaldenta" target="_blank">
+<a href="https://linkedin.com/in/naufal-denta-elsatya-nugraha-2baa36282" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/naufaldenta" target="_blank">
@@ -89,12 +91,25 @@
 <br/>  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufaldenta&theme=discord-old-blurple)](https://git.io/streak-stats)
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
 
   
 
 <br/>  
 
-<div align="center"></div>
+<div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufaldenta&theme=discord-old-blurple)](https://git.io/streak-stats)</div>
 <br />
+
+----
+
+  
+
+
 
