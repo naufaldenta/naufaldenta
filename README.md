@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Naufal Denta, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
